@@ -4,3 +4,6 @@
 [submodule "code/extern/glm"]
 	path = code/extern/glm
 	url = https://github.com/g-truc/glm.git
+[submodule "code/extern/entt"]
+	path = code/extern/entt
+	url = https://github.com/skypjack/entt.git
