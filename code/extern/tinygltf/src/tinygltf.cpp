@@ -1,0 +1,10 @@
+// file: extern/tinygltf/src/tinygltf.cpp
+
+
+// Define these only in *one* .cc file.
+#define TINYGLTF_IMPLEMENTATION
+#define STB_IMAGE_IMPLEMENTATION
+#define STB_IMAGE_WRITE_IMPLEMENTATION
+// #define TINYGLTF_NOEXCEPTION // optional. disable exception handling.
+
+#include <tiny_gltf/tiny_gltf.h>
