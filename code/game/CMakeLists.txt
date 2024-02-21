@@ -3,6 +3,7 @@ cmake_minimum_required(VERSION 3.26)
 set(SOURCE_FILES main.cpp
         Shader.h
         Shader.h
+        stb_image.h
 )
 set(EXE_FILE Game)
 
