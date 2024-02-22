@@ -4,6 +4,8 @@ set(SOURCE_FILES main.cpp
         Shader.h
         Shader.h
         stb_image.h
+        Camera.h
+        Camera.h
 )
 set(EXE_FILE Game)
 
