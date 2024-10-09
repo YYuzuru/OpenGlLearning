@@ -1,9 +1,9 @@
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 
-#include "Shader.h"
-#include "stb_image.h"
-#include "Camera.h"
+#include "../engine/Shader.h"
+#include "../engine/stb_image.h"
+#include "../engine/Camera.h"
 #include <iostream>
 
 #include <glm/glm.hpp>

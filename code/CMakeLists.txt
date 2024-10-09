@@ -11,3 +11,4 @@ add_subdirectory(extern/tinygltf)
 
 
 add_subdirectory(game)
+add_subdirectory(modelLoading)

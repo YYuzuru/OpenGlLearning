@@ -5,7 +5,7 @@ set(SOURCE_FILES main.cpp
         "../engine/stb_image.h"
         "../engine/Camera.h"
 )
-set(EXE_FILE Game)
+set(EXE_FILE Model)
 
 add_executable(${EXE_FILE} ${SOURCE_FILES})
 
