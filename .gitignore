@@ -442,3 +442,4 @@ src/code/cmake-build-debug/
 cmake-build-debug
 documentation/docs/out
 code/.idea/
+/code/out/build/x64-Debug
