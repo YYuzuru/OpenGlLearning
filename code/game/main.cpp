@@ -132,6 +132,8 @@ int main() {
     Shader lightingShader("C:\\Users\\Thoms\\Documents\\_Studium\\S6\\OpenGL\\code\\assets\\vertexShader.vert",
                      "C:\\Users\\Thoms\\Documents\\_Studium\\S6\\OpenGL\\code\\assets\\TextureFrag.frag"
     );
+
+
     Shader lightCubeShader("C:\\Users\\Thoms\\Documents\\_Studium\\S6\\OpenGL\\code\\assets\\vertexShader.vert",
                            "C:\\Users\\Thoms\\Documents\\_Studium\\S6\\OpenGL\\code\\assets\\fragementShader.frag"
     );

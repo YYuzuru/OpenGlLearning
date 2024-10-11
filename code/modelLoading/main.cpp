@@ -4,11 +4,13 @@
 #include "../engine/Shader.h"
 #include "../engine/stb_image.h"
 #include "../engine/Camera.h"
+#include "../engine/Assets.h"
 #include <iostream>
 
 #include <glm/glm.hpp>
 #include <glm/gtc/matrix_transform.hpp>
 #include <glm/gtc/type_ptr.hpp>
+#include "Model.h"
 
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 unsigned int loadTexture(char const* path);
@@ -67,6 +69,10 @@ int main() {
 
     // build and compile our shader program
     // ------------------------------------
+
+    Shader modelShader("Model.vert", "Model.frag");
+    Model backback("C:\\Users\\Thoms\\Documents\\_Studium\\S6\\OpenGL\\code\\assets\\backpack\\backpack.obj");
+    
 
 
     while (!glfwWindowShouldClose(window)) {

@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\CCompilerTest.c">
+      <Filter>UnitTests\Compiler</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\code\Common\Version.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\code\Common\Base64.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utSimd.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utIOSystem.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utIOStreamBuffer.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utIssues.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utAnim.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\AssimpAPITest.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\AssimpAPITest_aiMatrix3x3.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\AssimpAPITest_aiMatrix4x4.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\AssimpAPITest_aiQuaternion.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\AssimpAPITest_aiVector2D.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\AssimpAPITest_aiVector3D.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\MathTest.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utBatchLoader.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utDefaultIOStream.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utFastAtof.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utMetadata.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\SceneDiffer.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\AbstractImportExportBase.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utTypes.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utVersion.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utProfiler.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utSharedPPData.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utStringUtils.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\Common\utMaybe.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\Common\utMesh.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\Common\utStandardShapes.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\Common\uiScene.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\Common\utLineSplitter.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\Common\utSpatialSort.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\Common\utAssertHandler.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\Common\utXmlParser.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\Common\utBase64.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\Common\utHash.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\Common\utBaseProcess.cpp">
+      <Filter>UnitTests\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\Geometry\utGeometryUtils.cpp">
+      <Filter>UnitTests\GeometryTools</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\Assxml\utAssxmlImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utLWSImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utLWOImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utSMDImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utglTFImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utglTF2ImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utHMPImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utIFCImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utFBXImporterExporter.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utImporter.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\utExporter.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ut3DImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ut3DSImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utACImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utAMFImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utASEImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utD3MFImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utQ3DImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utSTLImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utXImporterExporter.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utX3DImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utDXFImporterExporter.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utPMXImporter.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utPLYImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utObjImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utObjTools.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utOpenGEXImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utSIBImporter.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utBlenderIntermediate.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utBlendImportAreaLight.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utBlenderImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utBlendImportMaterials.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utBlenderWork.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utBVHImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utColladaExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utColladaImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utCSMImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utB3DImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utMDCImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utAssbinImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\utAssjsonImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\utCOBImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\utOgreImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\utQ3BSPFileImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\utOFFImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\utNFFImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\utXGLImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\utMD2Importer.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\utMD5Importer.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\utMDLImporter.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\MDL\utMDLImporter_HL1_ImportSettings.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\MDL\utMDLImporter_HL1_Materials.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\MDL\utMDLImporter_HL1_Nodes.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\RAW\utRAWImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\Terragen\utTerragenImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\Pbrt\utPbrtImportExport.cpp">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utMaterialSystem.cpp">
+      <Filter>UnitTests\Material</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utMatrix3x3.cpp">
+      <Filter>UnitTests\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utMatrix4x4.cpp">
+      <Filter>UnitTests\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utVector3.cpp">
+      <Filter>UnitTests\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utImproveCacheLocality.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utFixInfacingNormals.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utGenNormals.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utTriangulate.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utTextureTransform.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utRemoveRedundantMaterials.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utRemoveVCProcess.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utScaleProcess.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utArmaturePopulate.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utJoinVertices.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utRemoveComments.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utRemoveComponent.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utVertexTriangleAdjacency.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utSplitLargeMeshes.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utFindDegenerates.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utFindInvalidData.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utLimitBoneWeights.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utPretransformVertices.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utScenePreprocessor.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utTargetAnimation.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utSortByPType.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utSceneCombiner.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\utGenBoundingBoxesProcess.cpp">
+      <Filter>UnitTests\PostProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\contrib\googletest\googletest\src\gtest-all.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\MathTest.h">
+      <Filter>UnitTests\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\RandomNumberGeneration.h">
+      <Filter>UnitTests\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\SceneDiffer.h">
+      <Filter>UnitTests\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\UTLogStream.h">
+      <Filter>UnitTests\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\TestIOSystem.h">
+      <Filter>UnitTests\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\TestModelFactory.h">
+      <Filter>UnitTests\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\unit\ImportExport\MDL\MDLHL1TestFiles.h">
+      <Filter>UnitTests\ImportExport</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Thoms\Documents\_Studium\S6\OpenGL\code\extern\assimp\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FF9872FA-6A52-3B81-87E2-7DF6D24DAE11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitTests">
+      <UniqueIdentifier>{72A3DD10-B8F5-3785-9BB8-66BFE411B39B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitTests\Common">
+      <UniqueIdentifier>{C42B82E0-1141-38C0-AB8A-62BFB9C1BBB9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitTests\Compiler">
+      <UniqueIdentifier>{01BA6595-76D8-3F73-BF31-AA8506CE7209}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitTests\GeometryTools">
+      <UniqueIdentifier>{908A9E2F-2576-3465-927E-B546F3281CB9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitTests\ImportExport">
+      <UniqueIdentifier>{2E95A9B7-4BC5-3A61-B1E4-1AF3B8EA8ED3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitTests\Material">
+      <UniqueIdentifier>{9E978DF6-9AE4-3410-83F1-0A89EFAEEADE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitTests\Math">
+      <UniqueIdentifier>{43776B3D-4191-32F4-8C68-745801AC5DB7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UnitTests\PostProcess">
+      <UniqueIdentifier>{A505C8AD-1D8D-3291-A360-8CE10F741FC9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+C:/Users/Thoms/Documents/_Studium/S6/OpenGL/code/extern/build/CMakeFiles/uninstall.dir
+C:/Users/Thoms/Documents/_Studium/S6/OpenGL/code/extern/build/CMakeFiles/UpdateAssimpLibsDebugSymbolsAndDLLs.dir
+C:/Users/Thoms/Documents/_Studium/S6/OpenGL/code/extern/build/CMakeFiles/INSTALL.dir
+C:/Users/Thoms/Documents/_Studium/S6/OpenGL/code/extern/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Thoms/Documents/_Studium/S6/OpenGL/code/extern/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Thoms/Documents/_Studium/S6/OpenGL/code/extern/build/contrib/zlib/CMakeFiles/zlibstatic.dir
+C:/Users/Thoms/Documents/_Studium/S6/OpenGL/code/extern/build/contrib/zlib/CMakeFiles/INSTALL.dir
+C:/Users/Thoms/Documents/_Studium/S6/OpenGL/code/extern/build/contrib/zlib/CMakeFiles/ALL_BUILD.dir
+C:/Users/Thoms/Documents/_Studium/S6/OpenGL/code/extern/build/code/CMakeFiles/assimp.dir
+C:/Users/Thoms/Documents/_Studium/S6/OpenGL/code/extern/build/code/CMakeFiles/INSTALL.dir
+C:/Users/Thoms/Documents/_Studium/S6/OpenGL/code/extern/build/test/CMakeFiles/unit.dir
+C:/Users/Thoms/Documents/_Studium/S6/OpenGL/code/extern/build/test/CMakeFiles/INSTALL.dir
+C:/Users/Thoms/Documents/_Studium/S6/OpenGL/code/extern/build/test/headercheck/CMakeFiles/INSTALL.dir
